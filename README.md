@@ -18,3 +18,4 @@
 ```bash
 git clone https://github.com/yourusername/universal-bmi-calculator.git
 cd universal-bmi-calculator
+python bmi_calculator.py
